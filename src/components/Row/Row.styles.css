@@ -1,5 +1,9 @@
 .row {
     margin-left: 20px;
+    color: white;
+}
+.row_title {
+    font-weight: 400;
 }
 .row_posters {
     display: flex;

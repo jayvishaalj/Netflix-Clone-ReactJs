@@ -6,8 +6,7 @@ This is built using ReactJs Framework
 @ author : Jay Vishaal J
 
 ## Todo 
-- [ ] Navbar shadow and slow start
-
-- [ ]  On Click play Trailer display the traile
-
+- [x] Navbar shadow and slow start
+- [x] On Click play Trailer display the traile
+- [ ] Deploy it on Firebase Hosting
 - [ ] On Click of movie display details then play trailer

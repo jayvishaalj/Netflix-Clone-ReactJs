@@ -15,7 +15,7 @@ function Banner() {
                 ]);
         }
         fetchData();
-    }, [requests.fetchNetflixOriginals]);
+    }, []);
 
 
     function truncate(str, n) {
